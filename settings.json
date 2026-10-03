@@ -1,0 +1,18 @@
+{
+    "site": {
+        "name": "在线音乐",
+        "desc": "鑫某的音乐库，喵~",
+        "since": ""
+    },
+    "theme": {
+        "primary_color": "#f2f2f2",
+        "secondary_color": "#8b5cf6",
+        "bg_mode": "image",
+        "bg_image_url": "https:\/\/img2.tukuppt.com\/bg_grid\/01\/20\/68\/QINokjx1R4.jpg",
+        "bg_mask_opacity": 0,
+        "glass_effect": true,
+        "hover_glow": false,
+        "fade_animation": true,
+        "bg_light": true
+    }
+}
